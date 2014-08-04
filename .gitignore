@@ -37,4 +37,11 @@ Icon
 
 *.sdf
 *.opensdf
-*.opensdf
+*.tlog
+*.obj
+*.idb
+*.pdb
+*.exe
+*.ilk
+*.log
+*.suo

@@ -26,8 +26,7 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
-
+Icon 
 # Thumbnails
 ._*
 
@@ -35,8 +34,6 @@ Icon
 .Spotlight-V100
 .Trashes
 
-*.sdf
-*.opensdf
 *.tlog
 *.obj
 *.idb
@@ -45,5 +42,17 @@ Icon
 *.ilk
 *.log
 *.suo
-asioSvr.v12.suo
-asioSvr.opensdf
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
